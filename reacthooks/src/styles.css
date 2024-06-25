@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: darkolivegreen;
+    color: black;
+}
+div {
+    margin: 50%;
+    padding: 2%;
+    background-color: lemonchiffon;
+    color: black;
+    text-align: center;
+}
